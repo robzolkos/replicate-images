@@ -1,0 +1,13 @@
+{
+  "name": "replicate-images",
+  "owner": {
+    "name": "Rob Zolkos"
+  },
+  "plugins": [
+    {
+      "name": "replicate-images",
+      "source": "./plugins/replicate-images",
+      "description": "Generate images using the Replicate API"
+    }
+  ]
+}

@@ -5,7 +5,8 @@ Generate images from text prompts using the [Replicate API](https://replicate.co
 ## Installation
 
 ```bash
-claude plugin install https://github.com/robzolkos/replicate-images
+claude plugin marketplace add robzolkos/replicate-images
+claude plugin install replicate-images
 ```
 
 ## Prerequisites
